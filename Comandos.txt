@@ -1,0 +1,31 @@
+Comandos:
+9. ¿Cuál es el comando que se utiliza para convertir una carpeta común en un repositorio?
+*
+4 puntos
+git init
+10. ¿Cuál es el comando que se utiliza para conocer el estado de un repositorio?
+*
+4 puntos
+git status
+11. ¿Cuál es el comando que se utiliza para obtener un listado de todos los commits?
+*
+4 puntos
+git log commit 
+12. ¿Qué comando utilizamos para borrar todo lo que está almacenado en el stash?
+*
+4 puntos
+git stash clear
+13. ¿Qué comando utilizamos para ver los orígenes remotos de un repositorio?
+*
+4 puntos
+git remote
+14. ¿Qué comando utilizamos para ver las ramas que tiene un repositorio y en cual estamos trabajando?
+*
+4 puntos
+git branch
+15. ¿Cuál es el comando para subir los últimos commits a nuestro repositorio remoto?
+*
+4 puntos
+git push
+
+
