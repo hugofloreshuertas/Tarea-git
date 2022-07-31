@@ -1,0 +1,110 @@
+Otros comandos:
+
+1. ¿El comando git add, lo ejecutamos antes o después de hacer el commit?.
+*
+4 puntos
+Antes
+Antes
+Después
+Después
+No se usa ese comando
+No se usa ese comando
+2. ¿Con cual comando podemos ver las etiquetas (tags) de un repositorio?.
+*
+4 puntos
+git tag show
+git tag show
+git tag
+git tag
+git tag see
+git tag see
+git tag look
+git tag look
+3. ¿Qué función tiene el mensaje que incluimos en cada commit?
+*
+4 puntos
+Proporciona información del commit,
+Proporciona información del commit,
+Describe los cambios que registra el commit,
+Describe los cambios que registra el commit,
+Explica las mejoras o soluciones que se han implementado,
+Explica las mejoras o soluciones que se han implementado,
+Todas son correctas.
+Todas son correctas.
+4. Si quiero actualizar la rama en la que estoy trabajando con la rama principal, ¿qué comando debo utilizar?
+*
+4 puntos
+git merge
+git merge
+git rebase
+git rebase
+cualquiera
+cualquiera
+ninguno
+ninguno
+5. Si quiero incluir en la rama principal lo que estuve desarrollando en otra rama, ¿qué comando debo utilizar?
+*
+4 puntos
+git rebase
+git rebase
+git merge
+git merge
+cualquiera
+cualquiera
+niguno
+niguno
+6. Si quiero reportar errores, sugerir cambios o características, ¿Qué función de GitHub debo utilizar?
+*
+4 puntos
+La documentación del proyecto (wiki)
+La documentación del proyecto (wiki)
+las solicitudes de extracción (pull request)
+las solicitudes de extracción (pull request)
+Las incidencias (issues)
+Las incidencias (issues)
+El foro de debates (discussions?
+El foro de debates (discussions?
+7. ¿Que función debemos activar en GitHub para utilizar un repositorio como página web?
+*
+4 puntos
+GitHub webs
+GitHub webs
+GitHub wiki
+GitHub wiki
+GitHub pages
+GitHub pages
+GitHub projects
+GitHub projects
+8. Marca todos los pasos que debo seguir para aportar con mi trabajo a un proyecto al que  no me han agregado como colaborador.
+*
+4 puntos
+subir los cambios a GitHub
+subir los cambios a GitHub
+bifurcar el repositorio del proyecto
+bifurcar el repositorio del proyecto
+Explicar las modificaciones que hice y por qué.
+Explicar las modificaciones que hice y por qué.
+Cambiarme a la nueva rama.
+Cambiarme a la nueva rama.
+clonar el repositorio del proyecto
+clonar el repositorio del proyecto
+Hacer los commits correspondientes
+Hacer los commits correspondientes
+Darle seguimiento a la pull request hasta que sea combinada o rechazada.
+Darle seguimiento a la pull request hasta que sea combinada o rechazada.
+Realizar mis aportes
+Realizar mis aportes
+iniciar una pull request
+iniciar una pull request
+escribir por correo a los responsables del proyecto
+escribir por correo a los responsables del proyecto
+Combinar la rama en la que trabajé con la rama principal
+Combinar la rama en la que trabajé con la rama principal
+Clonar el repositorio bifurcado.
+Clonar el repositorio bifurcado.
+Enviar una pull request
+Enviar una pull request
+Crear una incidencia solicitando que me agreguen
+Crear una incidencia solicitando que me agreguen
+Crear una nueva rama
+Crear una nueva rama
